@@ -1,4 +1,4 @@
-<img src="Kunzita (1).png"/>
+<img src="Icon.png"/>
 
 ## About this project
 Kunzita is an Open-Source Component Library developed as an add-on to Jetpack Compose, offering a variety of customizable and useful components. Its goal is to help developers enhance their user interfaces and simplify the app development process.

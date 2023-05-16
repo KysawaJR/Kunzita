@@ -17,6 +17,8 @@ With Kunzita, developers of all levels can easily create stunning user interface
 
 Whether you are a beginner or an experienced developer, Kunzita provides a simple and powerful solution for creating user interfaces. Give it a try and see how it can benefit your next project.
 
+Code Example:
+
 ```kotlin
 import io.kunzita.charts.ColumnBarChart
 import androidx.compose.material.Surface

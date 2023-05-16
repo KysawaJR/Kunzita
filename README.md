@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Icon.png"/>
+  <img src="Logo.png"/>
 </div>
 
 [![Kotlin](https://img.shields.io/badge/kotlin-1.8.10-blue.svg?logo=kotlin)](http://kotlinlang.org)

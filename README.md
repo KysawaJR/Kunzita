@@ -2,7 +2,7 @@
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="Logo-White.png">
-    <img src="Logo-Black.png"/>
+    <img src="Logo-Black (1).png"/>
   </picture>
   
 </div>

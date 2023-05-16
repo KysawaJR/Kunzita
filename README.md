@@ -1,8 +1,8 @@
-<div margin="70px 0px 70px 0px" align="center">
+<div align="center">
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="Logo-Black (1).png">
-    <img alt="Kunzita Logo" src="Logo-White (1).png">
+    <img src="Logo-White (1).png">
   </picture>
   
 </div>

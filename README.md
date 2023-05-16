@@ -1,7 +1,7 @@
 <div align="center">
   
   <picture>
-    <img src="Logo (1).png"/>
+    <img src="Logo (2).png"/>
   </picture>
   
 </div>

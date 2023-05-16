@@ -1,6 +1,7 @@
 <div margin="20px 0px 20px 0px" align="center">
   
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Logo-White.png">
     <img src="Logo (2).png"/>
   </picture>
   

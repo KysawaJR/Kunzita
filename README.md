@@ -1,4 +1,4 @@
-<div margin="20px 0px 20px 0px" align="center">
+<div margin="70px 0px 70px 0px" align="center">
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="Logo-White.png">

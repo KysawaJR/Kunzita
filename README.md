@@ -22,6 +22,8 @@ Code Example:
 ```kotlin
 import io.kunzita.charts.ColumnBarChart
 import androidx.compose.material.Surface
+import androidx.compose.runtime.Composable
+
 
 @Composable
 fun app() {

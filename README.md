@@ -2,7 +2,7 @@
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="Logo-Black (1).png">
-    <source media="(prefers-color-scheme: light)" srcset="Logo-White (1).png">
+    <img alt="Kunzita Logo" src="Logo-White (1).png">
   </picture>
   
 </div>

@@ -1,8 +1,8 @@
 <div align="center">
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Logo-Black (1).png">
-    <img src="Logo-White (1).png">
+    <source media="(prefers-color-scheme: dark)" srcset="src/resources/assets/Logo-Black.png">
+    <img src="src/resources/assets/Logo-White.png">
   </picture>
   
 </div>

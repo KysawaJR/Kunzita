@@ -23,7 +23,7 @@ fun ColumnBarChart(
     // That said, the developer has complete freedom as to the customization of the same
 
     LazyRow(
-        Modifier.fillMaxSize(),
+        Modifier.fillMaxSize(0.95F),
         horizontalArrangement = Arrangement.spacedBy(20.dp, Alignment.CenterHorizontally),
         verticalAlignment = Alignment.Bottom
     ){

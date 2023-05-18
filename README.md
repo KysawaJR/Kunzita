@@ -1,3 +1,6 @@
+<img width=100% alt="Head" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=twinkling"/>
+
+
 <div align="center">
   
   <picture>

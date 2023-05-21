@@ -12,7 +12,7 @@
     </a>
 </div>
 
-<h3 align="center">About</h3>
+<h2 align="center">About</h2>
 
 Kunzita is an Open-Source Component Library developed as an add-on to Jetpack Compose, offering a variety of customizable and useful components. Its goal is to help developers enhance their user interfaces and simplify the app development process.
 

@@ -26,9 +26,15 @@ import io.kunzita.charts.ColumnBarChart
 import androidx.compose.material.Surface
 import androidx.compose.runtime.Composable
 
+fun main() = DesktopApp(
+    title = "Kunzita Desktop App",
+    size = IntSize(1000.dp, 600.dp),
+    ui = { UI() },
+    dataframe = { Dataframe() }
+)
 
 @Composable
-fun app() {
+fun UI() {
     
     var list = listOf(22, 55, 42, 86, 70)
     

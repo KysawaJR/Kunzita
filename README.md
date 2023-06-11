@@ -22,7 +22,9 @@ Whether you are a beginner or an experienced developer, Kunzita provides a simpl
 
 
 ```kotlin
-import io.kunzita.charts.ColumnBarChart
+import charts.ColumnBarChart
+import app.DesktopApp
+
 import androidx.compose.material.Surface
 import androidx.compose.runtime.Composable
 

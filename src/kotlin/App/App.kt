@@ -11,89 +11,29 @@ import androidx.compose.ui.unit.*
 fun DesktopApp(
   title : String,
   size : IntSize,
-  UI: @Composable () -> Unit,
-  dataframe: Unit
+  ui: @Composable () -> Unit,
+  dataframe: Unit? = null
 ){
   Window(
     title = title,
     size = size
   ){
-    UI()
+    ui()
   }
 }
 
-
-
-
-
-  
-
-
-
-
-
-
-  
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-fun main() = MultiplatformAppFramework.startApp {
-  // Define app here using Jetpack Compose and Kotlin
-  Text("Hello, World!")
+fun main() = DesktopApp(
+  title = "Desktop App",
+  size = IntSize(1000.dp, 600.dp)
+){
+  UI()
 }
+
+@Composable
+fun UI() {
+  Box(
+    Modifier.fillMaxSize(),
+    color = Color.White
+  )
+}
+

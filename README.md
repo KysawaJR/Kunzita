@@ -23,32 +23,13 @@ Whether you are a beginner or an experienced developer, Kunzita provides a simpl
 
 ```kotlin
 import charts.ColumnBarChart
-import app.DesktopApp
+import app.*
 
 import androidx.compose.material.Surface
 import androidx.compose.runtime.Composable
 
-fun main() = DesktopApp(
-    title = "Kunzita Desktop App",
-    size = IntSize(1000.dp, 600.dp),
-    ui = { UI() },
-    dataframe = { Dataframe() }
-)
+fun main() = Desktop.App("Desktop App")
 
-@Composable
-fun UI() {
-    
-    var list = listOf(22, 55, 42, 86, 70)
-    
-    Surface {
-        ColumnBarChart(
-            modifier = Modifier.fillMaxSize(),
-            color = Color.Magenta,
-            data = list,
-            onDataChanged = {}
-        )
-    }
-}
 ```
 
 <img width=100% alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
